@@ -1,0 +1,3 @@
+C:/Faculta/an1sem1/Structuri de Date/Lab4-5/cmake-build-debug/CMakeFiles/SDsem2.dir
+C:/Faculta/an1sem1/Structuri de Date/Lab4-5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Faculta/an1sem1/Structuri de Date/Lab4-5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
